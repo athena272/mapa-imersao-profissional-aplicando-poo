@@ -3,3 +3,5 @@ src/.idea/src.iml
 src/.idea/misc.xml
 src/.idea/modules.xml
 src/.idea/vcs.xml
+src/out
+src/.idea/discord.xml
